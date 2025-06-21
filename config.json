@@ -1,0 +1,10 @@
+{
+  "proxies": [
+    {
+      "name": "luna",
+      "username": "14acfa7f9a57c",
+      "password": "74f453f102",
+      "tunnel": "46.34.62.73:12323"
+    }
+  ]
+}
